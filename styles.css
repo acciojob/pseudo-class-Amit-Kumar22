@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+div{
+	display:flex;
+}
 .first{
 	color:rgb(255, 0, 0);
 }
