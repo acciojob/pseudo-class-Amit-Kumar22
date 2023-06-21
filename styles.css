@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+div{
+	display: flex
+}
 .f1{
 	color:rgb(255, 0, 0);
 }
