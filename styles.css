@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 div{
 	display: flex
+	padding:0px;
 }
 .f1{
 	color:rgb(255, 0, 0);
