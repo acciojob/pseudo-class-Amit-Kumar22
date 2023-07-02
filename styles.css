@@ -1,11 +1,8 @@
 /*  your css code here. If applicable */
-div{
-	display: flex
-	padding:0px;
+.container{
+	display: flex;
+	gap: 2px;
 }
-.f1{
-	color:rgb(255, 0, 0);
-}
-.f3{
-	color:rgb(255, 0, 0);
+.f1,.f3{
+	color: red;
 }
